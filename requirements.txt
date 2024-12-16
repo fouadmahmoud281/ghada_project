@@ -12,3 +12,5 @@ httpx
 python-multipart
 aiohttp
 anthropic
+arabic-reshaper
+python-bidi
