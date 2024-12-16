@@ -14,4 +14,3 @@ aiohttp
 anthropic
 arabic-reshaper
 python-bidi
-InferenceHTTPClient
